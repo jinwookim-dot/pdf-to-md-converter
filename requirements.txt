@@ -1,4 +1,6 @@
 streamlit
 pdfplumber
 pandas
-tabulate
+python-docx
+python-pptx
+olefile
